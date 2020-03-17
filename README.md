@@ -1,2 +1,3 @@
 "# Este projeto foi o trabalho de conclusão do curso de Web Design da https://www.origamid.com/"; 
-Foi desenvolvido usando HTML, CSS, JavaScript, jQuery e PHP para a funcionalidade de envio de e-mail na página de contato.
+Foi desenvolvido usando HTML, CSS, JavaScript, jQuery e PHP para a funcionalidade de envio de e-mail na página de contato;
+
